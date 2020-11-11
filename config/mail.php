@@ -57,7 +57,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'hola@distribuidoranecochea.com.ar'),
+        'address' => env('MAIL_FROM_ADDRESS', 'hola@libreriavariedadesvillafranco.shop'),
         'name' => env('MAIL_FROM_NAME', 'Distribuidora Necochea'),
     ],
 
