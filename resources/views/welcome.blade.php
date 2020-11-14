@@ -69,12 +69,12 @@
         <div class="row">
             <div class="col-md-6">
               
-                <h1 class="title">Bienvenido a Libreria y variedades Villafranco.</h1>
+                <h1 class="title">Bienvenido a Librería y variedades Villafranco</h1>
                 <h4>Realiza pedidos en línea y te contactaremos para coordinar la entrega.</h4>
-                {{--<br />--}}
-                {{--<a href="#" class="btn btn-danger btn-raised btn-lg">--}}
-                    {{--<i class="fa fa-play"></i> ¿Cómo funciona?--}}
-                {{--</a>--}}
+                <br />
+               <a href="#" class="btn btn-danger btn-raised btn-lg">
+                    <i class="fa fa-play"></i> ¿Cómo funciona?
+                </a>
             </div>
         </div>
     </div>
@@ -82,46 +82,46 @@
 
 <div class="main main-raised">
     <div class="container">
-        {{--<div class="section text-center section-landing">--}}
-            {{--<div class="row">--}}
-                {{--<div class="col-md-8 col-md-offset-2">--}}
-                    {{--<h2 class="title">¿Por qué confiar en {{ config('app.name') }}?</h2>--}}
-                    {{--<h5 class="description">Puedes revisar nuestra relación completa de productos, comparar precios y realizar tus pedidos cuando estés seguro.</h5>--}}
-                {{--</div>--}}
-            {{--</div>--}}
+       <div class="section text-center section-landing">
+           <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="title">¿Por qué confiar en Librería y variedades Villafranco? </h2>
+                   <h5 class="description">Puedes revisar nuestra relación completa de productos, comparar precios y realizar tus pedidos cuando estés seguro.</h5>
+                </div>
+            </div>
 
-            {{--<div class="features">--}}
-                {{--<div class="row">--}}
-                    {{--<div class="col-md-4">--}}
-                        {{--<div class="info">--}}
-                            {{--<div class="icon icon-primary">--}}
-                                {{--<i class="material-icons">chat</i>--}}
-                            {{--</div>--}}
-                            {{--<h4 class="info-title">Atendemos tus dudas</h4>--}}
-                            {{--<p>Atendemos rápidamente cualquier consulta que tengas vía chat. No estás sólo, sino que siempre estamos atentos a tus inquietudes.</p>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<div class="col-md-4">--}}
-                        {{--<div class="info">--}}
-                            {{--<div class="icon icon-success">--}}
-                                {{--<i class="material-icons">verified_user</i>--}}
-                            {{--</div>--}}
-                            {{--<h4 class="info-title">Pago seguro</h4>--}}
-                            {{--<p>Todo pedido que realices será confirmado a través de una llamada. Si no confías en los pagos en línea puedes pagar contra entrega el valor acordado.</p>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<div class="col-md-4">--}}
-                        {{--<div class="info">--}}
-                            {{--<div class="icon icon-danger">--}}
-                                {{--<i class="material-icons">fingerprint</i>--}}
-                            {{--</div>--}}
-                            {{--<h4 class="info-title">Información privada</h4>--}}
-                            {{--<p>Los pedidos que realices sólo los conocerás tú a través de tu panel de usuario. Nadie más tiene acceso a esta información.</p>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-        {{--</div>--}}
+            <div class="features">
+               <div class="row">
+                    <div class="col-md-4">
+                       <div class="info">
+                           <div class="icon icon-primary">
+                                <i class="material-icons">chat</i>
+                            </div>
+                            <h4 class="info-title">Atendemos tus dudas</h4>
+                            <p>Atendemos rápidamente cualquier consulta que tengas vía chat. No estás sólo, sino que siempre estamos atentos a tus inquietudes.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                       <div class="info">
+                            <div class="icon icon-success">
+                                <i class="material-icons">verified_user</i>
+                            </div>
+                            <h4 class="info-title">Pago seguro</h4>
+                            <p>Todo pedido que realices será confirmado a través de una llamada. Si no confías en los pagos en línea puedes pagar contra entrega el valor acordado.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="info">
+                            <div class="icon icon-danger">
+                                <i class="material-icons">fingerprint</i>
+                            </div>
+                            <h4 class="info-title">Información privada</h4>
+                            <p>Los pedidos que realices sólo los conocerás tú a través de tu panel de usuario. Nadie más tiene acceso a esta información.</p>
+                        </div>
+                    </div>
+                </div>
+           </div>
+        </div>
 
         <div class="section text-center">
             <h2 class="title">Nuestros productos</h2>
